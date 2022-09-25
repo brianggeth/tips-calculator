@@ -12,10 +12,13 @@ Users should be able to:
 
 ### Screenshot
 
+![Desktop Site](/tips-calculator/images/screen-desktop.png 'Desktop')
+![Mobile Site](/tips-calculator/images/screen-mobile.png 'Mobile')
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/tips-calculator-using-html-js-and-sass-o9PxNAlQWk)
+- Live Site URL: [Live Demo](https://tips-calculator-qpeq.vercel.app/)
 
 ## Author
 
